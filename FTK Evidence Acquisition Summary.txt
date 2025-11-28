@@ -1,0 +1,37 @@
+﻿Created By AccessData® FTK® Imager 4.5.0.3 
+
+Case Information: 
+Acquired using: ADI4.5.0.3
+Case Number: FTK1
+Evidence Number: 01
+Unique Description: Black and Red Sandisk USB Data Folder
+Examiner: Craig Perkins
+Notes: BFOR 519 FTK Evidence Acqusition
+
+--------------------------------------------------------------
+
+Information for D:\FTK Imager - Evidence Acquisition\Export\FTK Evidence 1.ad1:
+[Computed Hashes]
+ MD5 checksum:    bb168fa1a9ca0d5342bda65d6d8b4bbf
+ SHA1 checksum:   66fd644395a3df52c36a52e725a27139607efe02
+
+Image information:
+ Acquisition started:   Thu Nov 20 23:02:51 2025
+ Acquisition finished:  Thu Nov 20 23:09:34 2025
+ Segment list:
+  D:\FTK Imager - Evidence Acquisition\Export\FTK Evidence 1.ad1
+  D:\FTK Imager - Evidence Acquisition\Export\FTK Evidence 1.ad2
+  D:\FTK Imager - Evidence Acquisition\Export\FTK Evidence 1.ad3
+  D:\FTK Imager - Evidence Acquisition\Export\FTK Evidence 1.ad4
+  D:\FTK Imager - Evidence Acquisition\Export\FTK Evidence 1.ad5
+  D:\FTK Imager - Evidence Acquisition\Export\FTK Evidence 1.ad6
+  D:\FTK Imager - Evidence Acquisition\Export\FTK Evidence 1.ad7
+  D:\FTK Imager - Evidence Acquisition\Export\FTK Evidence 1.ad8
+  D:\FTK Imager - Evidence Acquisition\Export\FTK Evidence 1.ad9
+  D:\FTK Imager - Evidence Acquisition\Export\FTK Evidence 1.ad10
+
+Image Verification Results:
+ Verification started:  Thu Nov 20 23:09:47 2025
+ Verification finished: Thu Nov 20 23:11:50 2025
+ MD5 checksum:    bb168fa1a9ca0d5342bda65d6d8b4bbf : verified
+ SHA1 checksum:   66fd644395a3df52c36a52e725a27139607efe02 : verified
