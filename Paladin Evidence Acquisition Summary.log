@@ -1,0 +1,84 @@
+PALADIN 8.05
+
+*************************
+Imager Command Line
+*************************
+ewfacquire -uC "Pal1" -E "01" -e "Craig Perkins" -D "Red and Black Sandisk USB Flash Drive" -c none -N none -f encase7 /dev/sdc1 -S 2000MiB -d md5,sha1 -t /media/A4CF-A68B/Paladin_Evidence_1/Paladin_Evidence_1 -l /media/A4CF-A68B/Paladin_Evidence_1/Paladin_Evidence_1.log
+
+
+*************************
+Time
+*************************
+Start Time : Apr-01-2020 19:58:07
+End Time : Apr-01-2020 20:20:11
+
+
+
+*************************
+Source Device Info
+*************************
+
+/dev/sdc1:
+
+ATA device, with non-removable media
+	Model Number:       0^Q‚ π9,f∞™Ä“©7.ËåW{òŸAc/T>òçÚÍ£åøò
+	Serial Number:      ∆R+-Ÿs∞~ΩE|L}ûÜ‘)Û
+	Firmware Revision:  UBŒYh€Ø
+	Media Serial Num:   5N
+ëÃ≈‰*ÖÊ_gbÅWÈ#;˜jáÅ#m•7–¨O3Ü1Mä
+	Media Manufacturer: FnK00tJ««0`+;x'WÖÁJ
+	Transport:          0x48a2; Revision: 0x3441
+Standards:
+	Used: unknown (minor revision code 0x5568) 
+	Supported: 13 12 10 8 7 6 5 
+	Likely used: 13
+Configuration:
+	Logical		max	current
+	cylinders	64137	39907
+	heads		41001	63323
+	sectors/track	42212	33408
+	--
+	CHS current addressable sectors:  2412839143
+	Logical  Sector size:            3582218946 bytes [ Supported: 2839351222 940443721 1986883949 447978272 1345072375 ]
+	Physical Sector size:             290129920 bytes
+	device size with M = 1024*1024: 8242910472588 MBytes
+	device size with M = 1000*1000: 8643318091705 MBytes (8643318091 GB)
+	cache/buffer size  = unknown
+	Nominal Media Rotation Rate: 49660
+Capabilities:
+	IORDY(may be)(cannot be disabled)
+	Standby timer values: spec'd by Standard
+	R/W multiple sector transfer: Max = 114	Current = ?
+	Recommended acoustic management value: 186, current value: 6
+	DMA: mdma0 *mdma1 *mdma2 *mdma4 mdma6 (?)
+	PIO: unknown
+	   *	reserved 69[0]
+	   *	reserved 69[1]
+	   *	reserved 69[3]
+	   *	reserved 69[6]
+	   *	DOWNLOAD MICROCODE DMA command
+	   *	SET MAX SETPASSWORD/UNLOCK DMA commands
+	   *	DEVICE CONFIGURATION SET/IDENTIFY DMA commands
+	   *	Long physical sector diagnostics
+Integrity word not set (found 0xe1aa, expected 0x44a5)
+
+
+
+*************************
+Imager Logs
+*************************
+MD5 hash calculated over data:		1f791de760da72287b7377791739db06
+SHA1 hash calculated over data:		2ee4c61452b7c362bea179f5d4f1ab1434e66120
+
+
+
+*************************
+Verification
+*************************
+MD5 hash stored in file:		1f791de760da72287b7377791739db06
+MD5 hash calculated over data:		1f791de760da72287b7377791739db06
+SHA1 hash stored in file:		2ee4c61452b7c362bea179f5d4f1ab1434e66120
+SHA1 hash calculated over data:		2ee4c61452b7c362bea179f5d4f1ab1434e66120
+
+
+
